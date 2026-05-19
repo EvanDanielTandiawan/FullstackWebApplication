@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /foto_mahasiswa/
+Disallow: /foto_dosen/
+Disallow: /css/
+Disallow: /js/
+Disallow: /Database.php
+Disallow: /manage_*.php
+Disallow: /delete_*.php
